@@ -5,13 +5,11 @@
 }
 body{
     font-size: 10px;
-    background-image: url(bg.jpg);
+    background-image: url(assets/bg.jpg);
     background-size: 100%;
     color: white;
     background-repeat: no-repeat;
     background-size: cover;
-    /* width: 100%; */
-    /* height: 100%;goo */
 
 }
 header{
